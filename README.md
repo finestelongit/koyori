@@ -1,6 +1,6 @@
 # Koyori
 
-## ✩°｡ Koyori - A fanmade Hakui Koyori themed REST API, made in Gleam 🌸 
+## ✩°｡ A fanmade Hakui Koyori themed REST API, made with Gleam 🌸 
 
 ![Hakui Koyori](/docs/koyori_cover.png)
 
